@@ -44955,7 +44955,7 @@ window.broadcasterThemes = {
     "8911994": "ml"
 };
 var colors = {
-    "default": ["#000000", "#151619", "#222327", "#343439", "#424348", "#55565a", "#6481BC", "#336B91", "#A4A4A6", "#AFAFAA", "#bbb", "#ddd", ]
+    "default": ["#000000", "#151619", "#222327", "#343439", "#424348", "#55565a", "#6481BC", "#336B91", "#A4A4A6", "#AFAFAA", "#bbb", "#f8f8f8", ]
 };
 var selectors = [{
     'background-color': ["body", "html", "#update"]
